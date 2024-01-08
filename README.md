@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brooks Rogers</h1>
-<h3 align="center">"I am a dedicated full-stack engineer based in Tulsa, Oklahoma, with a strong passion for software development, cybersecurity, and server management. I thoroughly enjoy crafting robust solutions across the entire technology stack."
+<h3 align="center">I am a dedicated full-stack engineer based in Tulsa, Oklahoma, with a strong passion for software development, cybersecurity, and server management. I thoroughly enjoy crafting robust solutions across the entire technology stack
 </h3>
 <img align="left" alt="Coding" width="400" src="https://pbs.twimg.com/media/DTr0pi-W0AAYD3H.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brooksrog8&label=Profile%20views&color=0e75b6&style=flat" alt="brooksrog8" /> </p>
