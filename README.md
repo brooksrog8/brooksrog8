@@ -1,7 +1,6 @@
 <h1 align="center">Hello all</h1>
 <h3 align="center">I am a dedicated Computer Science & Cyber Secrurity student based in Tulsa, Oklahoma, with a strong passion for reverse engineering, computer security, and server management.
 </h3>
-<img align="left" alt="Coding" width="400" src="https://pbs.twimg.com/media/DTr0pi-W0AAYD3H.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brooksrog8&label=Profile%20views&color=0e75b6&style=flat" alt="brooksrog8" /> </p>
 
 
